@@ -177,10 +177,9 @@ Compared multiple classification algorithms for survival prediction.
 
 # Contribution Snake
 
-```text
-Replace with your GitHub Snake Animation after enabling GitHub Actions.
-```
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/01ayuvi/01ayuvi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
 ---
 
 # Current Focus
