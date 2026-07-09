@@ -233,33 +233,6 @@ Worked as a **Software Engineering Intern**, contributing to the development of 
 # 📜 Certifications
 
 - IBM Advanced Generative AI
-- Cisco Networking Academy
-- Oracle Academy
-- NPTEL Coursework
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="YOUR_LEETCODE_PROFILE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="YOUR_GFG_PROFILE">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="YOUR_HACKERRANK_PROFILE">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="YOUR_CODECHEF_PROFILE">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
 
 ---
 
@@ -267,23 +240,13 @@ Worked as a **Software Engineering Intern**, contributing to the development of 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=01ayuvi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=01ayuvi&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01ayuvi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=01ayuvi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=01ayuvi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=01ayuvi&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
