@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Ayuvi%20Chaudhary&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%&descAlignY=65"/>
@@ -8,15 +7,14 @@
 <p>
 <a href="https://github.com/01ayuvi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome"/></a>
+<a href="mailto:ayuvi.chaudhary@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://drive.google.com/file/d/1n3iA_UT629ajL05zETyavXfkzBMu57LK/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome"/></a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=01ayuvi\&style=for-the-badge\&color=7C3AED)
 
 </div>
 
----
 
 # About Me
 
@@ -32,7 +30,6 @@ My interests include:
 
 I recently completed a Software Engineering Internship where I contributed to an enterprise-grade HRMS by building frontend modules, integrating APIs, testing applications, and collaborating using GitHub workflows.
 
----
 
 # Tech Stack
 
@@ -66,7 +63,6 @@ I recently completed a Software Engineering Internship where I contributed to an
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma"/>
 </p>
 
----
 
 # AI & Machine Learning
 
@@ -78,7 +74,6 @@ I recently completed a Software Engineering Internship where I contributed to an
 | Visualization    | Matplotlib, IBM Cognos                       |
 | Computer Vision  | OpenCV, TensorFlow Lite (Learning)           |
 
----
 
 # Featured Projects
 
@@ -101,8 +96,6 @@ Enterprise Human Resource Management System developed during my internship.
 * API Integration
 * Performance Testing using JMeter
 
----
-
 
 ## 🎧 Dynamic Soundscape Generator
 
@@ -110,7 +103,6 @@ Enterprise Human Resource Management System developed during my internship.
 
 Machine learning-powered IoT project generating adaptive environmental soundscapes.
 
----
 
 ## 📅 FFCS Planner
 
@@ -118,7 +110,6 @@ Machine learning-powered IoT project generating adaptive environmental soundscap
 
 Academic planner helping students generate conflict-free schedules.
 
----
 
 ## 📊 Titanic Survival Prediction
 
@@ -127,8 +118,6 @@ Academic planner helping students generate conflict-free schedules.
 Compared multiple classification algorithms for survival prediction.
 
 **Best Model:** Stacking Classifier (80.45% Accuracy)
-
----
 
 # Professional Experience
 
@@ -142,13 +131,11 @@ Compared multiple classification algorithms for survival prediction.
 * Implemented secure authentication workflows
 * Collaborated through GitHub version control
 
----
+
 
 # Certifications
 
-*IBM ADVANCED GEN AI
-
----
+ *IBM ADVANCED GEN AI
 
 
 # GitHub Analytics
@@ -163,7 +150,6 @@ Compared multiple classification algorithms for survival prediction.
 
 </div>
 
----
 
 # Contribution Graph
 
@@ -173,14 +159,13 @@ Compared multiple classification algorithms for survival prediction.
 
 </div>
 
----
-
 # Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/01ayuvi/01ayuvi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
----
+
+
 
 # Current Focus
 
@@ -206,16 +191,14 @@ Open To:
   - Backend Engineering
 ```
 
----
 
 # Connect With Me
 
 * 📧 ayuvi.chaudhary@gmail.com
-* 💼 [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ayuvi-chaudhary/)
+* 💼 https://linkedin.com/in/ayuvi-chaudhary
 * 💻 https://github.com/01ayuvi
 * 🌐 https://drive.google.com/file/d/1n3iA_UT629ajL05zETyavXfkzBMu57LK/view?usp=sharing
 
----
 
 > *"Great software is built through curiosity, collaboration, and continuous learning."*
 
