@@ -6,13 +6,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;React+%7C+FastAPI+%7C+PostgreSQL;AI+%26+Machine+Learning+Projects;Open+to+Software+Engineering+Opportunities"/>
 
 <p>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/01ayuvi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
 <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome"/></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=01ayuvi\&style=for-the-badge\&color=7C3AED)
 
 </div>
 
@@ -155,11 +155,11 @@ Compared multiple classification algorithms for survival prediction.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=01ayuvi&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01ayuvi&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=01ayuvi&theme=tokyonight"/>
 
 </div>
 
