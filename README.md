@@ -103,22 +103,6 @@ Enterprise Human Resource Management System developed during my internship.
 
 ---
 
-## 📚 Smart College Library Management System
-
-**Stack:** Python • SQLite • HTML • CSS • JavaScript
-
-AI-assisted library management application for managing books, students, and borrowing records.
-
-**Highlights**
-
-* CRUD Operations
-* SQLite Database
-* SQL Queries
-* Student Management
-* Book Inventory
-* Borrow/Return Tracking
-
----
 
 ## 🎧 Dynamic Soundscape Generator
 
@@ -162,23 +146,10 @@ Compared multiple classification algorithms for survival prediction.
 
 # Certifications
 
-* AWS Cloud (Learning)
-* Cisco Networking
-* Oracle Academy
-* NPTEL Courses
+*IBM ADVANCED GEN AI
 
 ---
 
-# Coding Profiles
-
-<p>
-<a href="YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="YOUR_GFG"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/></a>
-<a href="YOUR_HACKERRANK"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/></a>
-<a href="YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/></a>
-</p>
-
----
 
 # GitHub Analytics
 
@@ -198,7 +169,7 @@ Compared multiple classification algorithms for survival prediction.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=01ayuvi&theme=tokyo-night"/>
 
 </div>
 
@@ -240,10 +211,10 @@ Open To:
 
 # Connect With Me
 
-* 📧 YOUR_EMAIL
-* 💼 https://linkedin.com/in/YOUR_LINKEDIN
-* 💻 https://github.com/YOUR_USERNAME
-* 🌐 YOUR_PORTFOLIO
+* 📧 ayuvi.chaudhary@gmail.com
+* 💼 [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/ayuvi-chaudhary/)
+* 💻 https://github.com/01ayuvi
+* 🌐 https://drive.google.com/file/d/1n3iA_UT629ajL05zETyavXfkzBMu57LK/view?usp=sharing
 
 ---
 
