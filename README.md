@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Ayuvi%20Chaudhary&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Ayuvi%20Chaudhary&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20&descAlignY=65"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+Scalable+Software;React+%7C+FastAPI+%7C+PostgreSQL;AI+%26+Machine+Learning+Projects;Open+to+Software+Engineering+Opportunities"/>
 
